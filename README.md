@@ -1,1 +1,4 @@
-Edmunds git test project# git_test
+Edmunds git test project
+change status
+second change
+third change
